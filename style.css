@@ -7,7 +7,7 @@
 
 body{
 
-    background-color: rgb(187, 180, 177);
+    background-color: rgba(134, 13, 190, 0.925);
 }
 @font-face {
     font-family: 'delinda';
@@ -19,8 +19,8 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 70px;
     text-align: center;
-    border-top: 0.6px solid rgb(230, 234, 241);
-    border-bottom: 0.6px solid rgb(230, 234, 241);
+    border-top: 0.6px solid rgb(78, 27, 197);
+    border-bottom: 0.6px solid rgb(0, 0, 0);
     margin-bottom: 10px;
 }
 .me{ display: flex;
@@ -32,7 +32,7 @@ body{
     gap: 50px;
     text-align: center;
     align-items: center;
-    border-bottom: 0.6px solid rgb(230, 234, 241);
+    border-bottom: 0.6px solid rgb(0, 0, 0);
 
 }
 .parteum{
